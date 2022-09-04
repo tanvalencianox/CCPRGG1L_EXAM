@@ -28,9 +28,9 @@ Example:
 email address)_**
   - iAmAwesome - true
 
-**3. Create a sayMyStudentNumber() method that will display your student number**
+**3. Create a _sayMyStudentNumber()_ method that will display your student number**
 
-**4. Create a sayMyEmailAddress() method that will display your student email
+**4. Create a _sayMyEmailAddress()_ method that will display your student email
 address**
 
-**5. Create an amIAwesome() method that will display if you are awesome!**
+**5. Create an _amIAwesome()_ method that will display if you are awesome!**
