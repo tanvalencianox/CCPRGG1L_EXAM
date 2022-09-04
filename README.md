@@ -3,7 +3,7 @@
 **1. Create a Student class** 
 
 Properties
--surname
+  surname
 -firstName
 -middleInitial
 -dateOfBirth
