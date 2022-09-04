@@ -3,13 +3,13 @@
 **1. Create a Student class** 
 
 Properties
-surname
-firstName
-middleInitial
-dateOfBirth
-studentNumber
-studentEmailAddress
-iamAwesome
+-surname
+-firstName
+-middleInitial
+-dateOfBirth
+-studentNumber
+-studentEmailAddress
+-iamAwesome
 
 **2. Create one object and give a value for each property**
 Note: Data on each property should be your own and should be valid.Example:
