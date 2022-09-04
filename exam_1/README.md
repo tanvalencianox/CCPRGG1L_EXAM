@@ -30,7 +30,7 @@ email address)_**
 
 **3. Create a _sayMyStudentNumber()_ method that will display your student number** (10 pts)
 
-**4. Create a _sayMyEmailAddress()_ method that will display your student email (10 pts)
-address**
+**4. Create a _sayMyEmailAddress()_ method that will display your student email address** (10 pts)
+
 
 **5. Create an _amIAwesome()_ method that will display if you are awesome!** (10 pts)
