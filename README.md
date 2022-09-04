@@ -1,6 +1,6 @@
 # Long Exam 1
 
-**Create a Student class** 
+**1. Create a Student class** 
 
 Properties
 surname
@@ -11,7 +11,7 @@ studentNumber
 studentEmailAddress
 iamAwesome
 
-**Create one object and give a value for each property**
+**2. Create one object and give a value for each property**
 Note: Data on each property should be your own and should be valid.Example:
 Object - Me
 surname - Ponio
@@ -23,9 +23,9 @@ studentEmailAddress - ponioed@students.national-u.edu.ph (Provide your NU
 email address)
 iamAwesome - true
 
-**Create a sayMyStudentNumber() method that will display your student number**
+**3. Create a sayMyStudentNumber() method that will display your student number**
 
-**Create a sayMyEmailAddress() method that will display your student email**
+**4. Create a sayMyEmailAddress() method that will display your student email**
 address
 
-**Create a amIAwesome() method that will display if you are awesome!**
+**5. Create a amIAwesome() method that will display if you are awesome!**
