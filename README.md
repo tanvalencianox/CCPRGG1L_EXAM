@@ -12,7 +12,7 @@ _Properties_
 - iamAwesome
 
 **2. Create one object and give a value for each property**
-Note: Data on each property should be your own and should be valid.
+***_Note: Data on each property should be your own and should be valid._***
 
 Example:
 Object - Me
