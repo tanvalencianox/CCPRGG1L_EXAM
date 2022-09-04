@@ -2,7 +2,7 @@
 
 **1. Create a Student class** 
 
-_Properties_
+_Properties:_
 - surname
 - firstName
 - middleInitial
