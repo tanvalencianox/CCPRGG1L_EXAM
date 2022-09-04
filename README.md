@@ -15,6 +15,8 @@ _Properties_
 
 ***_Note: Data on each property should be your own and should be valid._***
 
+`#0969DA`
+
 Example:
 Object - Me
 surname - Ponio
