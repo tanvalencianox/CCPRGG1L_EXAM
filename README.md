@@ -20,19 +20,13 @@ Example:
 
 - Object - Me
   - surname - Ponio
-
-firstname - Elizer
-
-middleInitial - D
-
-dateOfBirth - 04/03/1990
-
-studentNumber - 2021107619 (Provide your NU student number)
-
-studentEmailAddress - ponioed@students.national-u.edu.ph (Provide your NU
+  - firstname - Elizer
+  - middleInitial - D
+  - dateOfBirth - 04/03/1990
+  - studentNumber - 2021107619 (Provide your NU student number)
+  - studentEmailAddress - ponioed@students.national-u.edu.ph (Provide your NU
 email address)
-
-iAmAwesome - true
+  - iAmAwesome - true
 
 **3. Create a sayMyStudentNumber() method that will display your student number**
 
