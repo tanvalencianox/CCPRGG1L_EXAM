@@ -1,6 +1,6 @@
 # Long Exam 1
 
-** Create a Student class ** 
+**Create a Student class** 
 
 Properties
 surname
