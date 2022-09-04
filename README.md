@@ -18,9 +18,8 @@ _Properties_
 
 Example:
 
-Object - Me
-
-surname - Ponio
+- Object - Me
+- surname - Ponio
 
 firstname - Elizer
 
