@@ -31,6 +31,6 @@ email address)_**
 **3. Create a sayMyStudentNumber() method that will display your student number**
 
 **4. Create a sayMyEmailAddress() method that will display your student email**
-address
+address**
 
 **5. Create a amIAwesome() method that will display if you are awesome!**
