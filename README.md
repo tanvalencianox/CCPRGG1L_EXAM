@@ -23,8 +23,8 @@ Example:
   - firstname - Elizer
   - middleInitial - D
   - dateOfBirth - 04/03/1990
-  - studentNumber - 2021107619 **_(Provide your NU student number)_**
-  - studentEmailAddress - ponioed@students.national-u.edu.ph **_(Provide your NU
+  - studentNumber - 2021107619 **_(Provide your own NU student number)_**
+  - studentEmailAddress - ponioed@students.national-u.edu.ph **_(Provide your own NU
 email address)_**
   - iAmAwesome - true
 
