@@ -1,6 +1,6 @@
 # Long Exam 1
 
-1. Create a Student classProperties
+## Create a Student classProperties
 surname
 firstName
 middleInitial
@@ -9,7 +9,7 @@ studentNumber
 studentEmailAddress
 iamAwesome
 
-a. Create one object and give a value for each property
+## Create one object and give a value for each property
 Note: Data on each property should be your own and should be valid.Example:
 Object - Me
 surname - Ponio
@@ -21,5 +21,7 @@ studentEmailAddress - ponioed@students.national-u.edu.ph (Provide your NU
 email address)
 iamAwesome - true
 
-b. Create a sayMyStudentNumber() method that will display your student numberc. Create a sayMyEmailAddress() method that will display your student email
-addressd. Create a amIAwesome() method that will display if you are awesome!
+## Create a sayMyStudentNumber() method that will display your student numberc. Create a sayMyEmailAddress() method that will display your student email
+address
+
+## Create a amIAwesome() method that will display if you are awesome!
