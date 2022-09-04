@@ -33,4 +33,4 @@ email address)_**
 **4. Create a _sayMyEmailAddress()_ method that will print your student email address** (10 pts)
 
 
-**5. Create an _amIAwesome()_ method that will print if you are awesome!** (10 pts)
+**5. Create an _amIAwesome()_ method that will print how awesome you are!** (10 pts)
