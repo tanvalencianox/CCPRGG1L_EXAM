@@ -2,7 +2,7 @@
 
 **1. Create a Student class** 
 
-Properties
+_Properties_
 - surname
 - firstName
 - middleInitial
@@ -12,7 +12,9 @@ Properties
 - iamAwesome
 
 **2. Create one object and give a value for each property**
-Note: Data on each property should be your own and should be valid.Example:
+Note: Data on each property should be your own and should be valid.
+
+Example:
 Object - Me
 surname - Ponio
 firstname - Elizer
