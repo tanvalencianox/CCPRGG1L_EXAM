@@ -15,7 +15,6 @@ _Properties_
 
 ***_Note: Data on each property should be your own and should be valid._***
 
-`#abc` 
 
 Example:
 Object - Me
