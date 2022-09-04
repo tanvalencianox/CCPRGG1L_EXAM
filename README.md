@@ -1,6 +1,8 @@
 # Long Exam 1
 
-## Create a Student classProperties
+** Create a Student class ** 
+
+Properties
 surname
 firstName
 middleInitial
