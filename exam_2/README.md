@@ -4,8 +4,8 @@
 
 **2. Please follow the instructions in the file** 
 
-**3. Deductions will be applied** 
+**3. Deductions will be applied if:** 
 
-- not following instructionns
-- Code error/bugs
+- You do not following instructions.
+- The code has error/bugs.
 
