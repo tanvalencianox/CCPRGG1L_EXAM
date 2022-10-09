@@ -143,7 +143,7 @@ public class Exam {
         String studentEmailAddress = scan.next();
 
         // ==============================================================================
-        // BONUS QUESTION (20 points)
+        // Programming competition/Job interview level question (20 points)
 
         // 11. ATM Logic.
 
