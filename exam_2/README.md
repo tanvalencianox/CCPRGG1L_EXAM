@@ -4,7 +4,9 @@
 
 **2. Please follow the instructions in the file** 
 
-**3. Deductions will be applied if:** 
+**3. Please do not remove or edit any code that is already in the file** 
+
+**4. Deductions will be applied if:** 
 
 - You do not following instructions.
 - The code has error/bugs.
