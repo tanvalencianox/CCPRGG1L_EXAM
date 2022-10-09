@@ -13,6 +13,4 @@
 
 You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
 
-<p align="center">
-  <img height="400" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-</p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
