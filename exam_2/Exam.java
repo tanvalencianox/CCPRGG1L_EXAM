@@ -145,7 +145,7 @@ public class Exam {
         // ==============================================================================
         // Programming competition/Job interview level question (20 points)
 
-        // 11. ATM Logic.
+        // 11. Think like an ATM.
 
         // You have an N amount of pesos in your savings account and you have decided
         // that you want to withdraw all of your money in the ATM.
@@ -161,7 +161,7 @@ public class Exam {
         // the ATM, the ATM will dispense two peso bills (100 peso bill and 50 peso
         // bill).
 
-        System.out.println("11. BONUS Question. ATM Logic");
+        System.out.println("11. Think like an ATM");
         System.out.print("Enter the total amount of money in your bank account: ");
         int amount = scan.nextInt();
 
