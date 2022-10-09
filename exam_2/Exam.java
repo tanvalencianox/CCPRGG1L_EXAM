@@ -19,7 +19,7 @@ public class Exam {
         // 1. Create a method and think of a formula to get the last 6 digits of your
         // student number. (10 pts)
         System.out.println("1. Last six digits");
-        System.out.print("Enter your eleven digit student number: ");
+        System.out.print("Enter your ten digit student number: ");
         int studentNumber = scan.nextInt();
 
         // ==============================================================================
@@ -72,7 +72,7 @@ public class Exam {
         // 6. Create a condition to check if the entered student number is your student
         // number. (10 pts)
         System.out.println("6. Student number validation");
-        System.out.print("Enter your 11 digit student number: ");
+        System.out.print("Enter your ten digit student number: ");
         studentNumber = scan.nextInt();
 
         // ==============================================================================
