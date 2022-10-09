@@ -159,7 +159,7 @@ public class Exam {
         // Example:
         // Elizer has 150 pesos in his bank account. If elizer withdraws 150 pesos in
         // the ATM, the ATM will dispense two peso bills (100 peso bill and 50 peso
-        // bill).
+        // bill). (Answer is 2)
 
         System.out.println("11. Think like an ATM");
         System.out.print("Enter the total amount of money in your bank account: ");
