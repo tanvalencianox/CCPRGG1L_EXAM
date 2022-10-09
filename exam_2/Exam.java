@@ -143,7 +143,7 @@ public class Exam {
         String studentEmailAddress = scan.next();
 
         // ==============================================================================
-        // Programming competition/Job interview level question (20 points and a milktea!)
+        // Programming competition/Job interview level question (20 points)
 
         // 11. Think like an ATM.
 
