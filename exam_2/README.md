@@ -11,6 +11,6 @@
 - You did not followi the instructions.
 - The code has error/bugs.
 
-You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
+Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
