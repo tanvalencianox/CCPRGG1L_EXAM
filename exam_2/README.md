@@ -1,4 +1,4 @@
-# Long Exam 2
+# Not so long Exam 2
 
 **1. Download the Exam.java file**  
 
