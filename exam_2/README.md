@@ -8,7 +8,7 @@
 
 **4. Deductions will be applied if:** 
 
-- You did not followi the instructions.
+- You did not follow the instructions.
 - The code has error/bugs.
 
 Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
